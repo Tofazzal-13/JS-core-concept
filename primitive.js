@@ -15,6 +15,6 @@ let bollean = false;
 
 let array = [];
 let object = {};
-function(){
-    
+function name(){
+
 }
